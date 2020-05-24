@@ -1,5 +1,0 @@
-"Michael Jordan" 
-"Lebron James" 
-"Kareem Abdul-Jabaar" 
-"Wilt Chamberlain" 
-"Magic Johnson"
